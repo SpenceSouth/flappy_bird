@@ -1,0 +1,16 @@
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bin\Debug\resources.pri
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bin\Debug\AppxManifest.xml
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bin\Debug\FlappybirdHd.build.appxrecipe
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bin\Debug\MicrosoftAdvertising.winmd
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bld\Debug\priconfig.xml
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bld\Debug\priconfig.xml.intermediate
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bld\Debug\layout.resfiles
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bld\Debug\layout.resfiles.intermediate
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bld\Debug\resources.resfiles
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bld\Debug\resources.resfiles.intermediate
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bld\Debug\pri.resfiles
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bld\Debug\pri.resfiles.intermediate
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bld\Debug\qualifiers.txt
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bld\Debug\ProjectArchitectures.txt

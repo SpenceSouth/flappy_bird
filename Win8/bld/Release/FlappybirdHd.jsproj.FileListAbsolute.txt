@@ -1,0 +1,16 @@
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bin\Release\resources.pri
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bin\Release\AppxManifest.xml
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bin\Release\FlappybirdHd.build.appxrecipe
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bin\Release\MicrosoftAdvertising.winmd
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bld\Release\priconfig.xml
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bld\Release\priconfig.xml.intermediate
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bld\Release\layout.resfiles
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bld\Release\layout.resfiles.intermediate
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bld\Release\resources.resfiles
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bld\Release\resources.resfiles.intermediate
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bld\Release\pri.resfiles
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bld\Release\pri.resfiles.intermediate
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bld\Release\qualifiers.txt
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bld\Release\qualifiers.txt.intermediate
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bld\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bld\Release\ProjectArchitectures.txt

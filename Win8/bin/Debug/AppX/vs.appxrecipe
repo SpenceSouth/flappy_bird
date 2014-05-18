@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SPENCE-ZENBOOK</Machine>
+    <WindowsUser>Spence</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>46192Omega142.FlappyBirdHDFree</PackageIdentityName>
+    <RegisteredManifestChecksum>53DE85E60D5014CF41D86F2BFC1704BB0DDAF1A2FD01E3717EA42408C6BCD023</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>46192Omega142.FlappyBirdHDFree_1.0.0.0_neutral__wrvvhcpxqmt6t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>46192Omega142.FlappyBirdHDFree_wrvvhcpxqmt6t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>46192Omega142.FlappyBirdHDFree</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=348A6BFE-6E7E-465F-B179-5482BE20739F</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-08T05:41:13.145</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingJS\6.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+      <Modified>2013-06-29T17:51:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingJS\6.1\Redist\debug\neutral\MSAdvertisingJS\ads\ad.js">
+      <PackagePath>MSAdvertisingJS\ads\ad.js</PackagePath>
+      <Modified>2013-06-29T17:49:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingJS\6.1\Redist\CommonConfiguration\neutral\MSAdvertisingJS\ads\bootstrap.js">
+      <PackagePath>MSAdvertisingJS\ads\bootstrap.js</PackagePath>
+      <Modified>2013-06-29T17:49:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingJS\6.1\Redist\CommonConfiguration\neutral\MSAdvertisingJS\ads\ormma.js">
+      <PackagePath>MSAdvertisingJS\ads\ormma.js</PackagePath>
+      <Modified>2013-06-29T17:49:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingJS\6.1\Redist\CommonConfiguration\neutral\MSAdvertisingJS\ads\bootstrap.html">
+      <PackagePath>MSAdvertisingJS\ads\bootstrap.html</PackagePath>
+      <Modified>2013-06-29T17:48:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingJS\6.1\Redist\CommonConfiguration\neutral\MSAdvertisingJS\ads\MSASettingsPanel.html">
+      <PackagePath>MSAdvertisingJS\ads\MSASettingsPanel.html</PackagePath>
+      <Modified>2013-06-29T17:48:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingJS\6.1\Redist\debug\neutral\MSAdvertisingJS\ads\metadata\microsoftnsjs.advertising.adcontrol.icon.12x12.png">
+      <PackagePath>MSAdvertisingJS\ads\metadata\microsoftnsjs.advertising.adcontrol.icon.12x12.png</PackagePath>
+      <Modified>2013-06-29T17:48:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingJS\6.1\Redist\debug\neutral\MSAdvertisingJS\ads\metadata\microsoftnsjs.advertising.adcontrol.icon.16x16.png">
+      <PackagePath>MSAdvertisingJS\ads\metadata\microsoftnsjs.advertising.adcontrol.icon.16x16.png</PackagePath>
+      <Modified>2013-06-29T17:48:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingJS\6.1\Redist\debug\neutral\MSAdvertisingJS\ads\metadata\microsoftnsjs.advertising.adcontrol_oam.xml">
+      <PackagePath>MSAdvertisingJS\ads\metadata\microsoftnsjs.advertising.adcontrol_oam.xml</PackagePath>
+      <Modified>2013-06-29T17:48:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2014-03-08T05:33:05.775</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\about.html">
+      <PackagePath>about.html</PackagePath>
+      <Modified>2014-02-01T22:07:59.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\support.html">
+      <PackagePath>support.html</PackagePath>
+      <Modified>2014-02-01T22:10:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\privacy.html">
+      <PackagePath>privacy.html</PackagePath>
+      <Modified>2014-02-01T22:11:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\c2runtime.js">
+      <PackagePath>c2runtime.js</PackagePath>
+      <Modified>2014-03-08T05:15:19.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\jquery-2.0.0.min.js">
+      <PackagePath>jquery-2.0.0.min.js</PackagePath>
+      <Modified>2013-09-03T17:31:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\images\tiledbackground_main.png">
+      <PackagePath>images\tiledbackground_main.png</PackagePath>
+      <Modified>2014-03-08T05:15:19.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\images\spr_menu_play-sheet0.png">
+      <PackagePath>images\spr_menu_play-sheet0.png</PackagePath>
+      <Modified>2014-03-08T05:15:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\images\spr_menu_more_games-sheet0.png">
+      <PackagePath>images\spr_menu_more_games-sheet0.png</PackagePath>
+      <Modified>2014-03-08T05:15:05.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\images\spr_player-sheet0.png">
+      <PackagePath>images\spr_player-sheet0.png</PackagePath>
+      <Modified>2014-03-08T05:15:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\images\spr_back_wall-sheet0.png">
+      <PackagePath>images\spr_back_wall-sheet0.png</PackagePath>
+      <Modified>2014-03-08T05:15:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\images\spr_obstacle_top-sheet0.png">
+      <PackagePath>images\spr_obstacle_top-sheet0.png</PackagePath>
+      <Modified>2014-03-08T05:15:07.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\images\spr_bg_animation-sheet0.png">
+      <PackagePath>images\spr_bg_animation-sheet0.png</PackagePath>
+      <Modified>2014-03-08T05:15:07.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\icon-16.png">
+      <PackagePath>icon-16.png</PackagePath>
+      <Modified>2014-03-08T05:26:24.238</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\icon-32.png">
+      <PackagePath>icon-32.png</PackagePath>
+      <Modified>2014-03-08T05:26:06.251</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\icon-114.png">
+      <PackagePath>icon-114.png</PackagePath>
+      <Modified>2014-03-08T05:25:19.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\icon-128.png">
+      <PackagePath>icon-128.png</PackagePath>
+      <Modified>2014-03-08T05:27:40.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\icon-256.png">
+      <PackagePath>icon-256.png</PackagePath>
+      <Modified>2014-03-08T05:23:56.154</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\loading-logo.png">
+      <PackagePath>loading-logo.png</PackagePath>
+      <Modified>2014-03-08T05:00:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\app-logo.png">
+      <PackagePath>app-logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-08T05:28:01.157</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\app-smalllogo.png">
+      <PackagePath>app-smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-08T05:27:26.600</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\app-storelogo.png">
+      <PackagePath>app-storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-08T05:26:59.268</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\splashscreen.png">
+      <PackagePath>splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-08T05:23:20.294</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\WindowsStoreProxy.xml">
+      <PackagePath>WindowsStoreProxy.xml</PackagePath>
+      <Modified>2013-05-23T19:20:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spencer\Dropbox\Simply Advanced Shared Folder\_MS100\Apps - Spence\Flappy Bird HD\Win8\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-03-08T05:41:11.439</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20512</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20512</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
